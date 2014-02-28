@@ -238,7 +238,7 @@ module.exports.msEmergencyContactRelationship = function(relationship) {
   expect(relationship.ModifiedBy).not.toBeNull("ModifiedBy can not be null.");
 };
 
-module.exports.aeInvoice = function(invModule, invoiceId) {
+module.exports.aeInvoice = function(invModule, invoiceId, conditionalArgs) {
   expect(invModule.Header).not.toBeNull("Header was not returned.");
   expect(invModule.Header.InvoiceID).toBe(invoiceId, "The invoice id returned did not match the passed invoiceID.");
   expect(invModule.Items).not.toBeNull("There are no invoice items associated with this invoice.");
@@ -258,8 +258,20 @@ module.exports.aeInvoice = function(invModule, invoiceId) {
     expect(item.Qty).toBe(1);
     expect(item.Cost).toBeGreaterThan(0);
     expect(item.RetailPrice).toBeGreaterThan(0);
-    expect(item.SalesmanID).toBeNull("This should be null since it is not passed on Create Invoice Item call.");
-    expect(item.TechnicianID).toBe("SAMM001", "TechnicianID should have been passed as SAMM001");
+    expect(item.SalesmanID).toBeDefined("SalesmanID should be defined in the object.");
+    expect(item.TechnicianID).toBeDefined("TechnicianID should be defined in the object.");
+    if (conditionalArgs && conditionalArgs.salesmanIdIsRequired) {
+      expect(item.SalesmanID).toBe(conditionalArgs.salesmanId, "TechnicianID should have been passed as " + conditionalArgs.salesmanId);
+    }
+    if (conditionalArgs && conditionalArgs.salesmanIdIsRequired === false) {
+      expect(item.SalesmanID).toBeNull("This should be null since it is not passed on Create Invoice Item call.");
+    }
+    if (conditionalArgs && conditionalArgs.technicianIdIsRequired) {
+      expect(item.TechnicianID).toBe(conditionalArgs.technicianId, "TechnicianID should have been passed as " + conditionalArgs.technicianId);
+    }
+    if (conditionalArgs && conditionalArgs.technicianIdIsRequired === false) {
+      expect(item.TechnicianID).toBeNull("This should be null since it is not passed on Create Invoice Item call.");
+    }
   }
 };
 

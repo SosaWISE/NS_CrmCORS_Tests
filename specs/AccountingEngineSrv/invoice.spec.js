@@ -148,7 +148,13 @@ describe("Invoice.spec tests | ", function() {
                   expect(bodyByPartNumber.Value).not.toBeNull("There is no value returned.");
                   expect(error).toBeNull();
 
-                  modelDef.aeInvoice(bodyByPartNumber.Value, body.Value.InvoiceID);
+                  modelDef.aeInvoice(bodyByPartNumber.Value, body.Value.InvoiceID, {
+                    salesmanIdIsRequired: true,
+                    salesmanId: 'PRIVT001'
+                  });
+
+                  /** Show items. */
+                  // console.log("Invice Items: ", bodyByPartNumber.Value.Items);
 
                   /** Check to see if we can add by Barcode. */
                   request.post({
