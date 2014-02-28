@@ -1,0 +1,1127 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"serv",
+				"ServiceTypes"
+			],
+			[
+				"Emer",
+				"EmergencyContactID"
+			],
+			[
+				"to",
+				"toBeDefined"
+			],
+			[
+				"boy",
+				"bodyByBarcode"
+			],
+			[
+				"Lead",
+				"LeadDispositionId"
+			],
+			[
+				"activa",
+				"activationFeeActual"
+			],
+			[
+				"acti",
+				"activationFeeActual"
+			],
+			[
+				"over",
+				"over3Months"
+			],
+			[
+				"monthly",
+				"monthlyMonitoringRate"
+			],
+			[
+				"o",
+				"observable"
+			],
+			[
+				"activ",
+				"activationFee"
+			],
+			[
+				"trE",
+				"trEqpmtAlt"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"de",
+				"departmentId"
+			],
+			[
+				"toBe",
+				"toBeNull"
+			],
+			[
+				"Tra",
+				"translation"
+			],
+			[
+				"tob",
+				"toBe"
+			],
+			[
+				"surve",
+				"surveyTypeObj"
+			],
+			[
+				"Po",
+				"possibleAnswerId"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"tobe",
+				"toBeNull"
+			],
+			[
+				"Surv",
+				"SurveyTranslationID"
+			],
+			[
+				"SurveyTy",
+				"SurveyTypeID"
+			],
+			[
+				"SurveyT",
+				"SurveyTypeID"
+			],
+			[
+				"sur",
+				"surveyTranslation"
+			],
+			[
+				"S",
+				"SurveyTranslations"
+			],
+			[
+				"su",
+				"surveyObject1"
+			],
+			[
+				"surv",
+				"surveyObject1"
+			],
+			[
+				"value",
+				"valueObj1"
+			],
+			[
+				"QuestionMea",
+				"questionMeaningId"
+			],
+			[
+				"surveyT",
+				"surveyTypeId"
+			],
+			[
+				"SS",
+				"SseServicesCmsCORS"
+			],
+			[
+				"suv",
+				"surveyTypeId1"
+			],
+			[
+				"survey",
+				"surveyTypeId"
+			],
+			[
+				"quest",
+				"questionMeaningId"
+			],
+			[
+				"que",
+				"questionMeaningId"
+			],
+			[
+				"ses",
+				"sessionId"
+			],
+			[
+				"Question",
+				"QuestionMeanings"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "specs/MonitoringStationSrv/industryAccountNumber.spec.js",
+			"settings":
+			{
+				"buffer_size": 4901,
+				"line_ending": "Windows",
+				"name": "/** IndustryAccountNumber.spec.js */"
+			}
+		},
+		{
+			"file": "specs/modelDefinitions.js",
+			"settings":
+			{
+				"buffer_size": 19477,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "specs/dataSource.js",
+			"settings":
+			{
+				"buffer_size": 17996,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 454,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "specs/MsAccountSetupSrv/accounts.spec.js",
+			"settings":
+			{
+				"buffer_size": 8172,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MsAccountSetupSrv/accountZoneTypes.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MsAccountSetupSrv/zoneEventTypes.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MsAccountSetupSrv/equipmentLookup.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MsAccountSetupSrv/equipmentLocation.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/AccountingEngineSrv/invoice.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MonitoringStationSrv/emergencyContacts.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MsAccountSetupSrv/systemDetails.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/config.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/auth.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/CmsCORS-tests.sublime-workspace",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MonitoringStationSrv/emergencyContactPhoneTypes.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MonitoringStationSrv/emergencyContactRelationships.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/package.json",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MsAccountSetupSrv/accounts.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/modelDefinitions.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/dataSource.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MsAccountSetupSrv/cellularTypes.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/QualifySrv/runCredit.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MsAccountSetupSrv/msAccountLeadInfo.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/QualifySrv/salesRep.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/QualifySrv/validateAddress.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/VerificationSrv/verifyAddress.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MainCoreSrv/lead.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MonitoringStationSrv/systemDetails.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MsAccountSetupSrv/invoiceMsInstalls.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MsAccountSetupSrv/activationFees.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/AuthSrv/SessionStart.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/QualifySrv/technician.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/CmsCORS-tests.sublime-project",
+		"/C/CodeBaseSOS/Trunk/Clients/JS/SS_ClientCRM/app/dataservice.js",
+		"/C/CodeBaseSOS/Trunk/Clients/JS/SS_ClientCRM/stuff/less/salesinfo.less",
+		"/C/CodeBaseSOS/Trunk/Clients/JS/SS_ClientCRM/app/dataservice.salessummary.js",
+		"/C/CodeBaseSOS/Trunk/Clients/JS/SS_ClientCRM/index.css",
+		"/C/CodeBaseSOS/Trunk/Clients/JS/SS_ClientCRM/index.less",
+		"/C/CodeBaseSOS/Trunk/Clients/JS/SS_ClientCRM/stuff/less/login.less",
+		"/C/CodeBaseSOS/Trunk/Clients/JS/SS_ClientCRM/web.config",
+		"/C/CodeBaseSOS/Trunk/Clients/JS/SS_ClientCRM/webconfig.js",
+		"/C/CodeBaseSOS/Trunk/Clients/JS/SS_ClientCRM/app/account/vm.salesinfo.js",
+		"/C/CodeBaseSOS/Trunk/Clients/JS/SS_ClientCRM/app/core/dataservice.base.js",
+		"/C/CodeBaseSOS/Trunk/Clients/JS/SS_ClientCRM/app/survey/vm.survey.js",
+		"/C/CodeBaseSOS/Trunk/Clients/JS/SS_ClientCRM/app/account/vm.account.js",
+		"/C/CodeBaseSOS/Trunk/Clients/JS/SS_ClientCRM/mock/index.js",
+		"/C/CodeBaseSOS/Trunk/Clients/JS/SS_ClientCRM/app/account/jade/salesinfo.jade",
+		"/C/CodeBaseSOS/Trunk/Clients/JS/SS_ClientCRM/depends.conf.js",
+		"/C/CodeBaseSOS/Trunk/Clients/JS/SS_ClientCRM/app/survey/vm.question.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MainCoreSrv/notes.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MainCoreSrv/noteCategories.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/AccountingEngineSrv/aging.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MainCoreSrv/aging.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MainCoreSrv/departments.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MainCoreSrv/noteTypes.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MainCoreSrv/noteTypes.js.spec",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/Surveys/questions.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MsAccountSetupSrv/contractLengths.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MsAccountSetupSrv/equipmentByPointsGet.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MsAccountSetupSrv/vendorAlarmComPacakges.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MsAccountSetupSrv/pointSystems.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MsAccountSetupSrv/PointSystems.spec.js",
+		"/C/CodeBaseSOS/Trunk/Clients/JS/SS_ClientCRM/package.json",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/Surveys/surveys.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/Surveys/surveyTypes.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/Surveys/questionPossibleAnswerMaps.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/Surveys/emptyListTest.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/Surveys/questionMeaningTokenMaps.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/Surveys/questionTranslations.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/Surveys/questionMeanings.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/Surveys/surveyTranslations.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/Helpers/SurveyObjects.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/AuthSrv/config.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/Surveys/tokens.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/Surveys/possibleAnswers.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/AuthSrv/Survey.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/Surveys/question.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/.jsbeautifyrc",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/.jshintrc",
+		"/C/Users/asosa_000/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/asosa_000/AppData/Roaming/Sublime Text 2/Packages/User/JsFormat.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Value",
+			"IndustryNumber",
+			"IndustryAccountNumbers",
+			"IndustryNumber",
+			"AccountId",
+			"AccountZoneType",
+			"AccountZoneTypeID",
+			"EquipmentLookup",
+			"ZoneEventTypes",
+			"EquipmentLocaitonID",
+			"EquipmentAdd",
+			"MonitronicsCode",
+			"Descrption",
+			"MonitoringStationOSID",
+			"EquipmentLocationID",
+			"ZoneEventTypeID",
+			"equipmentTypeId",
+			"MonitoringStationOSID",
+			"DslSeizure",
+			"DslSeizureID",
+			"PanelTypeName",
+			"PanelTypeID",
+			"SystemTypeId",
+			"SystemTypeName",
+			"SystemTypeId",
+			"map",
+			"CellularTypes",
+			"CellularTypesGet",
+			"ServiceTypesGet",
+			"ServiceTypesGe",
+			"byPart",
+			"invoiceRefresh",
+			"RelationshipDescription",
+			"MsRelationshipId",
+			"relationship",
+			"MonitoringStationOSId",
+			"RelationshipID",
+			"PhoneTypeID",
+			"toBeNull",
+			"phoneType",
+			"HasKey",
+			"aeInvoiceItem",
+			"bodyByExisting",
+			"bodyByBarcode",
+			"bodyIn1.Value",
+			"bodyByPartNumber.Value",
+			"AddByPartNumber",
+			"AddressID",
+			"AddressId",
+			"AddressID",
+			"params",
+			"AddByPartNumber",
+			"CustomerId",
+			"LeadId",
+			"AccountID",
+			"LeadID",
+			"TeamLocationId",
+			"Leads",
+			"leads",
+			".\");\n",
+			"dataSource",
+			"CellularTypeId",
+			"State",
+			"invoicerefresh",
+			"console",
+			"dataservice.maincore.note.",
+			"dataservice.maincore.note",
+			"maincoresrv/note",
+			"sData",
+			"dataservice",
+			"define",
+			"activationFee",
+			"SalesInfoViewModel",
+			"Total",
+			"ComboViewModel",
+			"appToken",
+			"notify",
+			"xhrFields",
+			"QuestionMeaningTokenMaps",
+			"name",
+			"surveyTypeId",
+			");\n",
+			"createQuestionTranslation",
+			"Meaning",
+			"Survey",
+			"  });",
+			"done",
+			"authBody",
+			"Token",
+			"body"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "specs/MonitoringStationSrv/industryAccountNumber.spec.js",
+					"settings":
+					{
+						"buffer_size": 4901,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4571,
+								4571
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "/** IndustryAccountNumber.spec.js */",
+							"csslint_options":
+							{
+								"adjoining-classes": false,
+								"box-model": false,
+								"box-sizing": false,
+								"compatible-vendor-prefixes": false,
+								"display-property-grouping": false,
+								"duplicate-background-images": false,
+								"duplicate-properties": false,
+								"empty-rules": false,
+								"errors": false,
+								"fallback-colors": false,
+								"floats": false,
+								"font-faces": false,
+								"font-sizes": false,
+								"gradients": false,
+								"ids": false,
+								"import": false,
+								"important": false,
+								"known-properties": false,
+								"outline-none": false,
+								"overqualified-elements": false,
+								"qualified-headings": false,
+								"regex-selectors": false,
+								"rules-count": false,
+								"shorthand": false,
+								"star-property-hack": false,
+								"text-indent": false,
+								"underscore-property-hack": false,
+								"unique-headings": false,
+								"universal-selector": false,
+								"vendor-prefix": false,
+								"zero-units": false
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"curly": true,
+								"eqeqeq": true,
+								"immed": true,
+								"latedef": true,
+								"laxcomma": true,
+								"onevar": true,
+								"smarttabs": true,
+								"strict": true,
+								"sub": true,
+								"trailing": true,
+								"undef": true,
+								"unused": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "save-only",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 979.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "specs/modelDefinitions.js",
+					"settings":
+					{
+						"buffer_size": 19477,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18869,
+								18869
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": false,
+								"box-model": false,
+								"box-sizing": false,
+								"compatible-vendor-prefixes": false,
+								"display-property-grouping": false,
+								"duplicate-background-images": false,
+								"duplicate-properties": false,
+								"empty-rules": false,
+								"errors": false,
+								"fallback-colors": false,
+								"floats": false,
+								"font-faces": false,
+								"font-sizes": false,
+								"gradients": false,
+								"ids": false,
+								"import": false,
+								"important": false,
+								"known-properties": false,
+								"outline-none": false,
+								"overqualified-elements": false,
+								"qualified-headings": false,
+								"regex-selectors": false,
+								"rules-count": false,
+								"shorthand": false,
+								"star-property-hack": false,
+								"text-indent": false,
+								"underscore-property-hack": false,
+								"unique-headings": false,
+								"universal-selector": false,
+								"vendor-prefix": false,
+								"zero-units": false
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"curly": true,
+								"eqeqeq": true,
+								"immed": true,
+								"latedef": true,
+								"laxcomma": true,
+								"onevar": true,
+								"smarttabs": true,
+								"strict": true,
+								"sub": true,
+								"trailing": true,
+								"undef": true,
+								"unused": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "save-only",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4755.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "specs/dataSource.js",
+					"settings":
+					{
+						"buffer_size": 17996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17491,
+								17514
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": false,
+								"box-model": false,
+								"box-sizing": false,
+								"compatible-vendor-prefixes": false,
+								"display-property-grouping": false,
+								"duplicate-background-images": false,
+								"duplicate-properties": false,
+								"empty-rules": false,
+								"errors": false,
+								"fallback-colors": false,
+								"floats": false,
+								"font-faces": false,
+								"font-sizes": false,
+								"gradients": false,
+								"ids": false,
+								"import": false,
+								"important": false,
+								"known-properties": false,
+								"outline-none": false,
+								"overqualified-elements": false,
+								"qualified-headings": false,
+								"regex-selectors": false,
+								"rules-count": false,
+								"shorthand": false,
+								"star-property-hack": false,
+								"text-indent": false,
+								"underscore-property-hack": false,
+								"unique-headings": false,
+								"universal-selector": false,
+								"vendor-prefix": false,
+								"zero-units": false
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"curly": true,
+								"eqeqeq": true,
+								"immed": true,
+								"latedef": true,
+								"laxcomma": true,
+								"onevar": true,
+								"smarttabs": true,
+								"strict": true,
+								"sub": true,
+								"trailing": true,
+								"undef": true,
+								"unused": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "save-only",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 568.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": false,
+								"box-model": false,
+								"box-sizing": false,
+								"compatible-vendor-prefixes": false,
+								"display-property-grouping": false,
+								"duplicate-background-images": false,
+								"duplicate-properties": false,
+								"empty-rules": false,
+								"errors": false,
+								"fallback-colors": false,
+								"floats": false,
+								"font-faces": false,
+								"font-sizes": false,
+								"gradients": false,
+								"ids": false,
+								"import": false,
+								"important": false,
+								"known-properties": false,
+								"outline-none": false,
+								"overqualified-elements": false,
+								"qualified-headings": false,
+								"regex-selectors": false,
+								"rules-count": false,
+								"shorthand": false,
+								"star-property-hack": false,
+								"text-indent": false,
+								"underscore-property-hack": false,
+								"unique-headings": false,
+								"universal-selector": false,
+								"vendor-prefix": false,
+								"zero-units": false
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"curly": true,
+								"eqeqeq": true,
+								"immed": true,
+								"latedef": true,
+								"laxcomma": true,
+								"onevar": true,
+								"smarttabs": true,
+								"strict": true,
+								"sub": true,
+								"trailing": true,
+								"undef": true,
+								"unused": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "save-only",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "specs/MsAccountSetupSrv/accounts.spec.js",
+					"settings":
+					{
+						"buffer_size": 8172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1632,
+								2565
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": false,
+								"box-model": false,
+								"box-sizing": false,
+								"compatible-vendor-prefixes": false,
+								"display-property-grouping": false,
+								"duplicate-background-images": false,
+								"duplicate-properties": false,
+								"empty-rules": false,
+								"errors": false,
+								"fallback-colors": false,
+								"floats": false,
+								"font-faces": false,
+								"font-sizes": false,
+								"gradients": false,
+								"ids": false,
+								"import": false,
+								"important": false,
+								"known-properties": false,
+								"outline-none": false,
+								"overqualified-elements": false,
+								"qualified-headings": false,
+								"regex-selectors": false,
+								"rules-count": false,
+								"shorthand": false,
+								"star-property-hack": false,
+								"text-indent": false,
+								"underscore-property-hack": false,
+								"unique-headings": false,
+								"universal-selector": false,
+								"vendor-prefix": false,
+								"zero-units": false
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"curly": true,
+								"eqeqeq": true,
+								"immed": true,
+								"latedef": true,
+								"laxcomma": true,
+								"onevar": true,
+								"smarttabs": true,
+								"strict": true,
+								"sub": true,
+								"trailing": true,
+								"undef": true,
+								"unused": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "save-only",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 20.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true
+}
