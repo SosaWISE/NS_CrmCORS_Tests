@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node_modules\\.bin\\jasmine-node specs\\AccountingEngineSrv\\invoice.spec.js"
+    "test": "node_modules\\.bin\\jasmine-node specs\\MsAccountSetupSrv\\equipmentLookup.spec.js"
   },
   "author": "Andres Sosa",
   "license": "BSD-2-Clause"
