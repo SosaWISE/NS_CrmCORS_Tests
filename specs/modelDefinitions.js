@@ -377,3 +377,47 @@ module.exports.industryAccountNumber = function(item) {
   expect(item.ReceiverNumber).toBeDefined("ReceiverNumber has to be defined.");
   expect(item.ReceiverNumber).not.toBeNull("ReceiverNumber can not be null.");
 };
+
+module.exports.msAccountEquipment = function(item) {
+  expect(item.AccountZoneAssignmentID).toBeDefined("AccountZoneAssignmentID has to be defined.");
+  expect(item.AccountZoneAssignmentID).not.toBeNull("AccountZoneAssignmentID can not be null.");
+
+  expect(item.AccountEquipmentID).toBeDefined("AccountEquipmentID has to be defined.");
+  expect(item.AccountEquipmentID).not.toBeNull("AccountEquipmentID can not be null.");
+
+  expect(item.AccountId).toBeDefined("AccountId has to be defined.");
+  expect(item.AccountId).not.toBeNull("AccountId can not be null.");
+
+  expect(item.ItemId).toBeDefined("ItemId has to be defined.");
+  expect(item.ItemId).not.toBeNull("ItemId can not be null.");
+
+  expect(item.ItemDesc).toBeDefined("ItemDesc has to be defined.");
+  expect(item.ItemDesc).not.toBeNull("ItemDesc can not be null.");
+
+  expect(item.Zone).toBeDefined("Zone has to be defined.");
+  expect(item.Zone).not.toBeNull("Zone can not be null.");
+
+  expect(item.AccountZoneTypeId).toBeDefined("AccountZoneTypeId has to be defined.");
+  expect(item.AccountZoneTypeId).not.toBeNull("AccountZoneTypeId can not be null.");
+
+  expect(item.EquipmentLocationId).toBeDefined("EquipmentLocationId has to be defined.");
+
+  expect(item.GPEmployeeId).toBeDefined("GPEmployeeId has to be defined.");
+  expect(item.GPEmployeeId).not.toBeNull("GPEmployeeId can not be null.");
+
+  expect(item.AccountEquipmentUpgradeTypeId).toBeDefined("AccountEquipmentUpgradeTypeId has to be defined.");
+  expect(item.AccountEquipmentUpgradeTypeId).not.toBeNull("AccountEquipmentUpgradeTypeId can not be null.");
+
+  expect(item.Price).toBeDefined("Price has to be defined.");
+  expect(item.Price).not.toBeNull("Price can not be null.");
+
+  expect(item.IsExistingWiring).toBeDefined("IsExistingWiring has to be defined.");
+  expect(item.IsExistingWiring).not.toBeNull("IsExistingWiring can not be null.");
+
+  expect(item.IsExisting).toBeDefined("IsExisting has to be defined.");
+  expect(item.IsExisting).not.toBeNull("IsExisting can not be null.");
+
+  expect(item.IsMainPanel).toBeDefined("IsMainPanel has to be defined.");
+  expect(item.IsMainPanel).not.toBeNull("IsMainPanel can not be null.");
+
+};

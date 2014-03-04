@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"equi",
+				"equipment1"
+			],
+			[
+				"con",
+				"conditionalArgs"
+			],
+			[
 				"serv",
 				"ServiceTypes"
 			],
@@ -176,7 +184,7 @@
 			"file": "specs/modelDefinitions.js",
 			"settings":
 			{
-				"buffer_size": 19477,
+				"buffer_size": 20291,
 				"line_ending": "Windows"
 			}
 		},
@@ -192,15 +200,15 @@
 			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 454,
+				"buffer_size": 445,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "specs/MsAccountSetupSrv/accounts.spec.js",
+			"file": "specs/MsAccountSetupSrv/equipmentLookup.spec.js",
 			"settings":
 			{
-				"buffer_size": 8172,
+				"buffer_size": 4496,
 				"line_ending": "Windows"
 			}
 		}
@@ -237,6 +245,11 @@
 	},
 	"file_history":
 	[
+		"/C/Users/asosa_000/AppData/Roaming/Microsoft/Signatures/NexSense Reply.htm",
+		"/C/Users/asosa_000/AppData/Roaming/Microsoft/Signatures/NexSense New.htm",
+		"/C/Users/asosa_000/AppData/Roaming/Microsoft/Signatures/NexSense New HTML.htm",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/NS_CrmCORS_Tests/specs/MsAccountSetupSrv/accounts.spec.js",
+		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/NS_CrmCORS_Tests/specs/AccountingEngineSrv/invoice.spec.js",
 		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MsAccountSetupSrv/accountZoneTypes.spec.js",
 		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MsAccountSetupSrv/zoneEventTypes.spec.js",
 		"/C/CodeBaseSOS/Trunk/Services/Cors/SSE.Services.CmsCORS/SSE.Services.CmsCORS.IntegrationTests/specs/MsAccountSetupSrv/equipmentLookup.spec.js",
@@ -321,7 +334,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 90.0,
 		"where_history":
 		[
 			""
@@ -332,6 +345,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"cheif",
+			".\");\n",
+			"InvoiceItems",
 			"Value",
 			"IndustryNumber",
 			"IndustryAccountNumbers",
@@ -439,7 +455,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -454,8 +470,8 @@
 						"selection":
 						[
 							[
-								4571,
-								4571
+								210,
+								253
 							]
 						],
 						"settings":
@@ -562,7 +578,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 979.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -572,15 +588,15 @@
 					"file": "specs/modelDefinitions.js",
 					"settings":
 					{
-						"buffer_size": 19477,
+						"buffer_size": 20291,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								18869,
-								18869
+								14414,
+								14404
 							]
 						],
 						"settings":
@@ -686,7 +702,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4755.0,
+						"translation.y": 3216.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -820,15 +836,15 @@
 					"file": "package.json",
 					"settings":
 					{
-						"buffer_size": 454,
+						"buffer_size": 445,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								393,
-								393
+								374,
+								374
 							]
 						],
 						"settings":
@@ -941,18 +957,18 @@
 				},
 				{
 					"buffer": 4,
-					"file": "specs/MsAccountSetupSrv/accounts.spec.js",
+					"file": "specs/MsAccountSetupSrv/equipmentLookup.spec.js",
 					"settings":
 					{
-						"buffer_size": 8172,
+						"buffer_size": 4496,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1632,
-								2565
+								2255,
+								2255
 							]
 						],
 						"settings":
@@ -1058,7 +1074,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 20.0,
+						"translation.y": 509.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
