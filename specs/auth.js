@@ -20,8 +20,10 @@ module.exports.authScript = function(request, cb) {
     request.post({
       url: config.SseServicesCmsCORS + "AuthSrv/UserAuth",
       form: {
-        Username: 'PrivetteANDY',
-        'Password': 'Freedom!SOS',
+		//Username: 'PrivetteANDY',
+        //'Password': 'Freedom!SOS',
+        Username: 'Devuser',
+        'Password': 'Nexsense',
         SessionID: sessionId
       },
       json: true
